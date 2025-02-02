@@ -1,4 +1,4 @@
-
+return [[
 return {
 	Name = "sososomuchmorphssss",
 	Title = "变身怪物",
@@ -655,3 +655,4 @@ end)
 		}
 	}
 }
+]]
