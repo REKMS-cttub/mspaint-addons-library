@@ -1,3 +1,3 @@
 return {
-    "DO.lua",
+    "delusional-office.lua",
 }
