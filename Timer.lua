@@ -1,3 +1,4 @@
+return [[
 local Library = getgenv().Library
 
 local Players = game:GetService("Players")
@@ -82,3 +83,4 @@ task.spawn(function()
 end)
 
 return Addon
+]]
