@@ -1,4 +1,4 @@
--- Warning: bad coding ahead this is not pro coding since im very still learning!
+return [[
 local modifierNames = {
     ["EyeMost"] = "眼睛在每个房间都生成",
     ["Chaos2"] = "", -- no need to show since black listed
@@ -134,6 +134,7 @@ local Addon = {
             }
         },
     }
+]]
 }
 
 return Addon
