@@ -134,7 +134,8 @@ local Addon = {
             }
         },
     }
-]]
+
 }
 
 return Addon
+]]
