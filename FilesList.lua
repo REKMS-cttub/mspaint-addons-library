@@ -4,4 +4,5 @@ return {
     "ModifierReader.lua",
     "Morph.lua",
     "Timer.lua",
+    "Courtyard-Statue-Interactive.lua",
 }
